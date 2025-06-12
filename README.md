@@ -5,11 +5,9 @@ This project is a modern, responsive landing page built using **HTML**, **CSS**,
 ## ✨ Features
 
 - 🔥 Fully responsive design
-- 🌗 Light/Dark theme toggle
 - 🧭 Sticky navigation bar with scroll effect
 - 🎯 Smooth scroll and section highlights
 - 🖼️ Hero section with call-to-action
-- 📱 Mobile-first layout with hamburger menu
 - 🔧 Clean, maintainable code structure
 
 ## 🛠️ Tech Stack
@@ -18,11 +16,6 @@ This project is a modern, responsive landing page built using **HTML**, **CSS**,
 - **CSS3** with media queries and transitions  
 - **Vanilla JavaScript** for interactivity  
 
-## 📷 Screenshots
-
-| Desktop |
-|--------|
-| ![desktop view](screenshots/desktop.png)
 
 
 
