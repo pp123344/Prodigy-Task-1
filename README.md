@@ -7,7 +7,6 @@ This project is a modern, responsive landing page built using **HTML**, **CSS**,
 - 🔥 Fully responsive design
 - 🧭 Sticky navigation bar with scroll effect
 - 🎯 Smooth scroll and section highlights
-- 🖼️ Hero section with call-to-action
 - 🔧 Clean, maintainable code structure
 
 ## 🛠️ Tech Stack
@@ -17,10 +16,7 @@ This project is a modern, responsive landing page built using **HTML**, **CSS**,
 - **Vanilla JavaScript** for interactivity  
 
 
+## 📸 Screenshots
 
-
-## 🚀 Getting Started
-
-1. **Clone the repo**
-   ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+![Landing Page](screenshots/responsive.png)
+![About Page](screenshots/responsivee.png)
